@@ -1,0 +1,9 @@
+harry 45 asd 45 4 5 
+mark 85 der 25 5655 2 
+Bruno 8564 abcdef 29 15000 2 
+tom 502 qery 30 20000 5 
+robert 8056 pool 22 9000 1 
+chris 3636 youi 26 13500 3 
+louis 5545 qwewe 21 9500 1 
+jenny 1245 asdfe 20 6000 0 
+john 1353 cdg 26 17500 2 

@@ -1,0 +1,21 @@
+
+
+PASSWORD FOR THE PROGRAM :-
+
+Password : pass
+
+cin.get()
+is used for accessing character array.
+It includes white space characters. Generally,
+cin with an extraction operator (>>) terminates
+ when whitespace is found. However, cin.get()
+reads a string with the whitespace.
+
+The _getch() and _getwch()
+ functions read a single character from the console
+  without echoing the character. None of these functions
+   can be used to read CTRL+C. To read a function key
+   or arrow key, each function must be called twice
+
+push_back() : lets you to append single character at a time. Time complexity: O(1)
+this function 
